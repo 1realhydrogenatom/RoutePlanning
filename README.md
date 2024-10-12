@@ -1,10 +1,10 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains the starter code for the Route Planning project, provided by udacity at https://github.com/udacity/CppND-Route-Planning-Project.git, which will be completed as part of C++ nanodegree program.
 
 <img src="map.png" width="600" height="450" />
 
-## Cloning
+## Cloning Udacity Project
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
